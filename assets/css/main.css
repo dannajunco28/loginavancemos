@@ -1,0 +1,98 @@
+body{
+    background-size: 100%;
+  
+    background-image: url(https://images.unsplash.com/photo-1497294815431-9365093b7331?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80)
+}
+
+.main{
+    text-align: center;
+    background-color: white;
+    height: 480px;
+    width: 430px;
+    margin-top: 10%;
+    border-radius: 0.8rem;
+}
+
+link{
+    text-decoration: none;
+}
+
+.dos{
+    text-align: center;
+    background-color: rgb(199, 47, 47);
+    height: 13%;
+    box-shadow: rgba(0, 0, 0, 0.712) 1px 1px 10px ;
+    width: 93%;
+    border-radius: 0.5rem;
+    margin-top: 3%;
+}
+
+.boton{
+    text-align: center;
+    background-color: rgb(199, 47, 47);
+    border-radius: 0.5rem;
+    margin-top: 7%;
+    border:rgb(199, 47, 47) 1px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 13px;
+    padding: 2%;
+    box-shadow: rgb(0, 0, 0) ;
+}
+
+.boton:hover{
+    background-color: rgb(212, 101, 101);
+}
+
+.text{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 18px;
+    padding-top: 15px;
+    text-shadow: rgba(0, 0, 0, 0.726) 1px 1px 5px ;
+}
+
+.tres{
+    padding-top: 22%;
+}
+.input{
+    width: 93%;
+    border-radius: 0.2rem;
+    border: rgba(0, 0, 0, 0.384) solid 1px;
+    padding: 0.4rem;
+}
+.inputuno{
+    width: 93%;
+    border-radius: 0.2rem;
+    border: rgba(0, 0, 0, 0.384) solid 1px;
+    margin-top: 15px;
+    padding: 0.4rem;
+}
+
+.cuatro{
+    margin-top: 3%; 
+}
+
+strong{
+    color:rgb(199, 47, 47);
+}
+
+a{
+    text-decoration: none;
+}
+
+.textres{
+    font-size: 15px;
+}
+
+.abajo{
+    color: white;
+    padding-left: 8%;
+    padding-top: 5%;
+}
+
+.strongdos{
+    color:white;
+}
